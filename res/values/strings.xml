@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">TestChat</string>
+    <string name="app_name">Chat XMPP</string>
     <string name="action_settings">Settings</string>
     <string name="LoginTo">Connect to:</string>
     <string name="Username">Gmail Username</string>

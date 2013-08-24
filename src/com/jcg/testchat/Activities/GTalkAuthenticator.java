@@ -1,8 +1,8 @@
-package com.jcg.testchat.Activities;
+package com.jcg.testchat.activities;
 
 import java.io.IOException;
 
-import com.example.testchat.R;
+import com.jcg.testchat.R;
 import com.jcg.testchat.application.TestChat;
 import com.jcg.testchat.xmpp.ChatController;
 

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import org.jivesoftware.smack.Chat;
 import org.jivesoftware.smack.RosterEntry;
 
-import com.example.testchat.R;
+import com.jcg.testchat.R;
 import com.jcg.testchat.xmpp.ChatController;
 import com.jcg.testchat.xmpp.MyMessage;
 

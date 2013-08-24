@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.Hashtable;
 
 import org.jivesoftware.smack.RosterEntry;
-import com.example.testchat.R;
+import com.jcg.testchat.R;
 import com.jcg.testchat.xmpp.ChatController;
 
 import android.app.Activity;

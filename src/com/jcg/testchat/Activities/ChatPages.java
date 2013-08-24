@@ -1,14 +1,17 @@
-package com.jcg.testchat.Activities;
+package com.jcg.testchat.activities;
 
 import java.util.ArrayList;
 import java.util.Hashtable;
 
+
 import org.jivesoftware.smack.Chat;
 
-import com.example.testchat.R;
+import com.jcg.testchat.R;
 import com.jcg.testchat.adapters.ChatAdapter;
 import com.jcg.testchat.application.TestChat;
 import com.jcg.testchat.xmpp.ChatController;
+
+
 
 import android.os.Bundle;
 import android.os.Handler;
