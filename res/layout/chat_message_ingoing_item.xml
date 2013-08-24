@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:layout_marginRight="10dp"   
+    android:background="@color/White">
+
+    <TextView
+        android:id="@+id/msg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:layout_alignParentLeft="true" 
+        android:layout_toLeftOf="@+id/imgContact"
+        android:paddingRight="10dp"
+        android:textSize="16sp"
+        android:gravity="right"/>
+
+    <ImageView
+        android:id="@+id/imgContact"
+        android:layout_width="75dp"
+        android:layout_height="75dp"             
+        android:src="@drawable/ic_noimg" 
+        android:layout_alignParentRight="true"
+        />
+
+</RelativeLayout>

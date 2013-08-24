@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="LoginTo">Connect to:</string>
+    <string name="Username">Gmail Username</string>
+ 	<string name="Password">Gmail Password</string>
+ 	<string name="OrSeparator">OR</string>
+ 	<string name="TypeMessage">Type message</string>
+</resources>
