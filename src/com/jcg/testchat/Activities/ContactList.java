@@ -1,4 +1,4 @@
-package com.jcg.testchat.activities;
+package com.jcg.testchat.Activities;
 
 import org.jivesoftware.smack.RosterEntry;
 

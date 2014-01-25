@@ -1,4 +1,4 @@
-package com.jcg.testchat.activities;
+package com.jcg.testchat.Activities;
 
 import java.io.IOException;
 

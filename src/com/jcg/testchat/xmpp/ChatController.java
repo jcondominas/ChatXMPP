@@ -23,8 +23,8 @@ import org.jivesoftware.smack.packet.Message;
 import org.jivesoftware.smack.packet.Presence;
 import org.jivesoftware.smackx.packet.VCard;
 
-import com.jcg.testchat.activities.ChatPages;
-import com.jcg.testchat.activities.ContactList;
+import com.jcg.testchat.Activities.ChatPages;
+import com.jcg.testchat.Activities.ContactList;
 
 import android.graphics.Bitmap;
 import android.os.Build;
